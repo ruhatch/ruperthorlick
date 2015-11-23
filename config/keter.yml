@@ -56,7 +56,7 @@ copy-to: ubuntu@ec2-54-72-33-10.eu-west-1.compute.amazonaws.com:/opt/keter/incom
 # You can pass arguments to `scp` used above. This example limits bandwidth to
 # 1024 Kbit/s and uses port 2222 instead of the default 22
 copy-to-args:
-  - "-i /Users/ruhatch/.ssh/aws_key.pem"
+  - "-i ~/.ssh/aws_key.pem"
 #   - "-l 1024"
 #   - "-P 2222"
 
