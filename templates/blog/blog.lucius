@@ -1,0 +1,12 @@
+.postBox {
+  padding: 10px;
+}
+.post {
+  box-shadow: 0px 0px 8px 2px #ddd;
+}
+.postTitle {
+  font-size: 20pt
+}
+.postBody {
+  font-size: 13pt
+}

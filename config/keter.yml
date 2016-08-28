@@ -51,12 +51,12 @@ stanzas:
 
 # Use the following to automatically copy your bundle upon creation via `yesod
 # keter`. Uses `scp` internally, so you can set it to a remote destination
-copy-to: ubuntu@ec2-54-72-33-10.eu-west-1.compute.amazonaws.com:/opt/keter/incoming/
+# copy-to: ubuntu@ec2-54-72-33-10.eu-west-1.compute.amazonaws.com:/opt/keter/incoming/
 
 # You can pass arguments to `scp` used above. This example limits bandwidth to
 # 1024 Kbit/s and uses port 2222 instead of the default 22
 copy-to-args:
-  - "-i ~/.ssh/aws_key.pem"
+  - "-i aws_key"
 #   - "-l 1024"
 #   - "-P 2222"
 

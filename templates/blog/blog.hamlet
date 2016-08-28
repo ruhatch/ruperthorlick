@@ -1,0 +1,17 @@
+<.container-fluid>
+  <h1>
+    Recent Posts
+  <.col-xs-5>
+    <.postBox>
+      <.post>
+        <div.postTitle>
+          I Love My Bub
+        <div.postBody>
+          <p>
+            My bub is the best bub in the whole world, for many reasons. First of all she is... <a href=''>read more</a>
+  <.col-xs-5 .post>
+    <div.postTitle>
+      I Love My Bub
+    <div.postBody>
+      <p>
+        My bub is the best bub in the whole world, for many reasons. First of all she is... <a href=''>read more</a>
