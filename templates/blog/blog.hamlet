@@ -1,27 +1,27 @@
-<.container>
-  <.row>
-    <.col-sm-4.offset-sm-1>
-      <.card.card-outline-secondary.card-block>
+<.container.center-vertical>
+  <.row.blog-sections>
+    <.col-md-6.col-lg-4.offset-lg-2>
+      <.card.card-outline-secondary.card-block.blog-section>
         <.card-title.h3>
           Personal
         <.card-text>
-          My bub is the best bub in the whole world, for many reasons. First of all she is really great and I like here a lot. The only problem that we've been facing is that she is almost too cute, causing me to almost die at semi-regular intervals. How am I to deal with this? Well... <a href=''>read more</a>
-    <.col-xs-4.offset-xs-2>
-      <.card.card-outline-secondary.card-block>
+          Things about me that I probably shouldn't be sharing with the world, but I will anyway, because why not?!
+    <.col-md-6.col-lg-4>
+      <.card.card-outline-secondary.card-block.blog-section>
         <.card-title.h3>
           Haskell
         <.card-text>
-          My bub is the best bub in the whole world, for many reasons. First of all she is really great and I like here a lot. The only problem that we've been facing is that she is almost too cute, causing me to almost die at semi-regular intervals. How am I to deal with this? Well... <a href=''>read more</a>
-  <.row>
-    <.col-sm-4.offset-sm-1>
-      <.card.card-outline-secondary.card-block>
+          Musings about the lazy, pure functional programming language that has captured the minds of researchers and practitioners alike
+  <.row.blog-sections>
+    <.col-md-6.col-lg-4.offset-lg-2>
+      <.card.card-outline-secondary.card-block.blog-section>
         <.card-title.h3>
           Climbing
         <.card-text>
-          My bub is the best bub in the whole world, for many reasons. First of all she is really great and I like here a lot. The only problem that we've been facing is that she is almost too cute, causing me to almost die at semi-regular intervals. How am I to deal with this? Well... <a href=''>read more</a>
-    <.col-xs-4.offset-xs-2>
-      <.card.card-outline-secondary.card-block>
+          Stories from the world of bouldering, mostly about how much my hands hurt, but sometimes about the great feelings of finally overcoming a difficult route
+    <.col-md-6.col-lg-4>
+      <.card.card-outline-secondary.card-block.blog-section>
         <.card-title.h3>
-          Haskell
+          Other
         <.card-text>
-          My bub is the best bub in the whole world, for many reasons. First of all she is really great and I like here a lot. The only problem that we've been facing is that she is almost too cute, causing me to almost die at semi-regular intervals. How am I to deal with this? Well... <a href=''>read more</a>
+          Anything that doesn't fit into the other three categories, I'll update this description with a small summary once I have something in here!

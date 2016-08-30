@@ -6,5 +6,4 @@
 
 / HomeR GET
 /blog BlogR GET
-
-/comments CommentR POST
+/about AboutR GET

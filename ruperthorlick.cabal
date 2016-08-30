@@ -23,7 +23,7 @@ library
                      Handler.Common
                      Handler.Home
                      Handler.Blog
-                     Handler.Comment
+                     Handler.About
 
     if flag(dev) || flag(library-only)
         cpp-options:   -DDEVELOPMENT

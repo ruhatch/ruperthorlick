@@ -1,12 +1,9 @@
-.postBox {
-  padding: 10px;
+@media (min-width: 768px) {
+  .blog-sections {
+    padding-bottom: 15px;
+  }
 }
-.post {
-  box-shadow: 0px 0px 8px 2px #ddd;
-}
-.postTitle {
-  font-size: 20pt
-}
-.postBody {
-  font-size: 13pt
+
+.blog-section {
+  min-height: 15rem;
 }
