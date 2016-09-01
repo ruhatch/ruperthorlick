@@ -69,7 +69,6 @@ $newline never
         }
 
     <script>
-        \  $.function() {
-        \    $('.nav-link').attr('href','#{pageTitle pc}').addClass('active');
-        \    $('.nav-link').addClass('active');
-          }
+        \  $(function() {
+        \    $('nav a[href="' + location.href + '"]').addClass('active');
+          });
